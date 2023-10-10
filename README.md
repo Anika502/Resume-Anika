@@ -1,5 +1,4 @@
-# Resume-Anika
-<!DOCTYPE html>
+# Resume-Anika 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -79,6 +78,4 @@
             <p>Banking application.</p>
             
         </section>
-    </div>
-</body>
-</html>
+    
