@@ -68,13 +68,12 @@
                 <li>Programming Languages: Java,C++</li>
                 <li>Web Development: HTML,CSS
                 <li>Problem Solving</li>
-            </ul>
-        </section>
+            
         <section class="section-header">
             <h2>Projects</h2>
         </section>
         <section class="section-content">
-            Simple calculator</strong></p>
+            Simple calculator
             <p>Banking application.</p>
             
         </section>
