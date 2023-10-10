@@ -46,7 +46,7 @@
             <p>3rd Year Computer Science Engineering Student</p>
         </header>
         <section class="section-header">
-            <h2>7988473255</h2>
+            <h2>Contact:7988473255</h2>
         </section>
         <section class="section-content">
             <p>Email: jainanika502@gmail.com</p>
@@ -58,7 +58,9 @@
         <section class="section-content">
             <p><strong>Seth Jai Prakash Mukund Lal Institute of Engineering and Technology</strong></p>
             <p>Bachelor of Technology (B.Tech) in Computer Science and Engineering</p>
-            <p>Expected Graduation:2025</p>
+            <p> Graduation:2025</p>
+            <p><strong>Swami Vivekanand Public School</strong></p>
+            <p>10th with 93%,12th with 91% marks</p>
         </section>
         <section class="section-header">
             <h2>Skills</h2>
@@ -70,11 +72,13 @@
                 <li>Problem Solving</li>
             
         <section class="section-header">
-            <h2>Projects</h2>
+            <h2>Projects and Training</h2>
         </section>
         <section class="section-content">
-            Simple calculator
-            <p>Banking application</p>
+        <p><strong>1.Solitaire Infosys,Mohali</strong></p>
+           Project: Simple calculator
+           <p><strong>2.Contriverse</strong></p>
+            <p>Project:Banking application</p>
             
         </section>
     
