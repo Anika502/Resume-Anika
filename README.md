@@ -64,7 +64,7 @@
             <h2>Skills</h2>
         </section>
         <section class="section-content">
-            <ul>
+            
                 <li>Programming Languages: Java,C++</li>
                 <li>Web Development: HTML,CSS
                 <li>Problem Solving</li>
@@ -74,7 +74,7 @@
         </section>
         <section class="section-content">
             Simple calculator
-            <p>Banking application.</p>
+            <p>Banking application</p>
             
         </section>
     
